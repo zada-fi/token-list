@@ -1,0 +1,37 @@
+{
+  "name": "Zada",
+  "logoURI": "http://www.zadafinance.com/zda-logo.png",
+  "keywords": ["scaling", "layer2", "infrastructure"],
+  "timestamp": "2023-02-13T11:55:01.869Z",
+  "tokens": [
+    {
+      "chainId": 534353,
+      "address": "0x457F5Bacd72a096B78CAA6E4cC27c1b5175746c3",
+      "name": "Zada",
+      "symbol": "ZDA",
+      "decimals": 18,
+      "logoURI": "http://www.zadafinance.com/zda-logo.png"
+    },
+    {
+      "chainId": 534353,
+      "address": "0xa1EA0B2354F5A344110af2b6AD68e75545009a03",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "http://www.zadafinance.com/weth-logo.png"
+    },
+    {
+      "chainId": 534353,
+      "address": "0xA0D71B9877f44C744546D649147E3F1e70a93760",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "http://www.zadafinance.com/usdc-logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 2
+  }
+}

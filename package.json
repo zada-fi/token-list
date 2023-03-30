@@ -1,0 +1,14 @@
+{
+  "name": "@scroll-layer2/token-lists",
+  "author": "scroll",
+  "description": "Token list specification",
+  "version": "1.0.2",
+  "engines": {
+    "node": ">=10"
+  },
+  "dependencies": {
+    "@actions/core": "^1.10.0",
+    "ajv": "^8.6.1",
+    "ajv-formats": "^2.1.0"
+  }
+}

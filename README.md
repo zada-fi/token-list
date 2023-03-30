@@ -1,2 +1,1 @@
-# token-list
-Zada Finance Token List
+# Zada Finance Token List
